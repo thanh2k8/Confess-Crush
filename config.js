@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Tỏ Tình Crush <3",
-    introTitle: 'Crush tui <3',
+    titleWeb: "Yew Cậu Nhìu Lắm á <33",
+    introTitle: 'Crush tui thw :3',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -12,9 +12,9 @@ const CONFIG = {
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Yêu Thì Yêu Không Yêu Bắt Phải Yêu <33333333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Kể Từ Bây h, cậu sẽ làm ny tớ nha:33.',
+    messDesc: 'Từ Bây Giờ, cậu sẽ thuộc về tớ cậu mà yew ai khác thì tớ đấm ny của cậu :3333.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/totinhcrush/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://d1ozsoeh4648m4.cloudfront.net/861/083/264/-449996982-1sjl2lk-js7koab5qpt64lk/original/file.jpg' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
